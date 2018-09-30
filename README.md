@@ -1,8 +1,9 @@
-### Consul examples repository  
+#### Consul examples repository  
 
 ---
 
 This repository contains necessary materials for the article "Consul - the swiss knife by Hashicorp".
+
 
 #### Requirements
 
