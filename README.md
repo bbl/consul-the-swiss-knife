@@ -1,4 +1,4 @@
-#### Consul examples repository  
+## Consul examples repository  
 
 ---
 
