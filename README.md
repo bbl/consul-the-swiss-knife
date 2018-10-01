@@ -9,9 +9,9 @@ This repository contains necessary materials for the article "[Consul - the swis
 
 To use scripts in this repo you need:
 
-- Install and run consul
-- CURL
+- [Install and run consul](https://gist.github.com/metallica127/c14a19660e77cee11be1e338f2c4f699)
+- Insall curl
 
 #### Usage
 
-In the article you can find full description of each example in the folders. Also, all scripts are documented.
+In the article you can find full description of each example in the subfolders. Also, all scripts are documented.
