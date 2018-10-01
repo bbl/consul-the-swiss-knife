@@ -3,6 +3,7 @@
 CONSUL_ADDR="${CONSUL_ADDR:-http://127.0.0.1:8500}"
 
 set -e
+set -o pipefail
 
 function consul_read(){
     consul kv get ${1}
